@@ -1,0 +1,13 @@
+.list_btn {
+display: flex;
+
+}
+
+.list_item {
+margin-right: 10px;
+}
+
+.list_btn {
+    font-size: 20px;
+    padding: 5px 10px;
+}

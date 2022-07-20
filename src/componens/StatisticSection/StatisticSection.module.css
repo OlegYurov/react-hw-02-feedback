@@ -1,0 +1,14 @@
+.statistic__name {
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.statistic__value {
+    
+    font-size: 20px;
+}
+
+.statistic__item {
+    margin-bottom: 10px;
+}
